@@ -1,0 +1,11 @@
+@media (max-height: 830px) {
+	.menu__bottom {
+		position: relative;
+		margin-top: 50px;
+	}
+
+	.menu,
+	.container {
+		height: 100%;
+	}
+}
